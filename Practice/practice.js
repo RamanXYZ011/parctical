@@ -1,9 +1,9 @@
 // 1. append extra text in heading h1
 
-// let h2 = document.querySelector("h2");
-// console.dir(h2);
+let h2 = document.querySelector("h2");
+console.dir(h2);
 
-// h2.innerText = h2.innerText + "How are you all?";  // concatenation of two strings
+h2.innerText = h2.innerText + "How are you all?";  // concatenation of two strings
 
 
 let divs = document.querySelectorAll(".box");
